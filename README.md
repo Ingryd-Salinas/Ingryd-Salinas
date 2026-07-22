@@ -28,7 +28,7 @@
 ### 📂 **Projetos**
 
 • Sistema de Gestão Empresarial: Aplicação em Java para gestão de funcionários, clientes e geração de relatórios estatísticos, utilizando MySQL, CRUD e estatísticas de dados. <br>
-• Conecta Bem: Projeto acadêmico desenvolvido em equipe para conectar voluntários e doadores na organização de ações solidárias de combate à insegurança alimentar.
+• Conecta Bem: Projeto acadêmico desenvolvido em equipe para conectar voluntários e doadores na organização de ações solidárias de combate à insegurança alimentar, utilizando MySQL, Python e Java.
 
 ### <h1 align="center">Entre em contato comigo! 📭 </h1>
 <div align="center">
